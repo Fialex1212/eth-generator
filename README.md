@@ -41,4 +41,3 @@ After generating keys, you can download them as a `.txt` file by clicking the "D
 
 ### Clear Keys:
 Click the "Clear Keys" button to clear all stored keys in the session.
-```
