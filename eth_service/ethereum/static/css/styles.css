@@ -1,0 +1,31 @@
+.container {
+  margin: 0 auto;
+  padding: 0 15px;
+  max-width: 1230px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: green;
+}
+
+.container__header {
+  display: flex;
+  gap: 10px;
+}
+
+.container__footer {
+  margin-top: 50px;
+  display: flex;
+  gap: 10px;
+}
+
+.eth__list{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
